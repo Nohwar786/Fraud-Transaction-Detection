@@ -52,3 +52,21 @@ The model is saved as:
 
 ```text
 fraud_detection_model.pkl
+
+
+## Project Structure
+
+```text
+Fraud-Transaction-Detection/
+├── screenshots/
+│   ├── Screenshot 2026-10-11 210433.png
+│   └── Screenshot 2026-10-11 210456.png
+├── README.md
+└── ... other project files
+```
+
+## Application Screenshots
+
+![Screenshot 1](screenshots/Screenshot%202026-10-11%20210433.png)
+
+![Screenshot 2](screenshots/Screenshot%202026-10-11%20210456.png)
